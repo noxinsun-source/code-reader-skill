@@ -1,6 +1,14 @@
 # 🔍 Code Reader Skill - 代码解读与智能注释系统
 
-**Language**: [中文](#cn) | [English](#en)
+> 代码理解与解读专家 | Code Understanding & Interpretation Expert
+
+<div align="center">
+
+### 📖 语言选择 | Language Selection
+
+[**中文** 🇨🇳](#cn) &nbsp;&nbsp;|&nbsp;&nbsp; [**English** 🇺🇸](#en)
+
+</div>
 
 ---
 
@@ -497,9 +505,13 @@ Default to current directory, or specify with `--output`.
 
 MIT License - Free to use and modify
 
-### 👨‍💻 Author
+### 👨‍💻 Contributors
 
-Claude Code - AI Assistant  
+| Contributor | Role | GitHub |
+|------------|------|--------|
+| **Kingsley Jed** | Design & Architecture | [@noxinsun-source](https://github.com/noxinsun-source) |
+| **Claude Code** | Implementation | AI Assistant - Anthropic |
+
 Created: 2026-05-09
 
 ---
