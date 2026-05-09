@@ -1,0 +1,11 @@
+# Code Reader Skill - Python Dependencies
+
+# Core
+python>=3.8
+
+# Logging and utilities
+colorama>=0.4.4  # Colored terminal output
+
+# Optional for extended features
+# anthropic>=0.7.0  # For Claude API integration
+# pydantic>=1.9.0   # For data validation
